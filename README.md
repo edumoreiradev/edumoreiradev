@@ -1,4 +1,4 @@
-## Hello, I'm Eduardo Moreira, or call me by my nickname KatsuEdu
+## Hello, I'm Eduardo Moreira, or KatsuEdu
 
 - 🌱 I'm currently learning java script and react
 - 💬 contact me on email: eduluizgm@gmail.com
