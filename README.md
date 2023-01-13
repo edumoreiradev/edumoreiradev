@@ -28,7 +28,7 @@
   <img align="center" alt="edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ## Istudying right now
+  ## Istudying right now:
 <div>
   <img align="center" alt="edu-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=127&color=currentColor">
   <img align="center" alt="edu-Js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=127&color=currentColor">
