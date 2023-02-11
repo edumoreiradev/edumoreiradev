@@ -1,14 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd3666&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8aa0c4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd3666&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Moreira;I'm+18+years+old;I'm+from+Brazil;I+Studing+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0d0f0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Moreira;I'm+18+years+old;I'm+from+Brazil;I+Studing+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/edumoreiradev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumoreiradev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumoreiradev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumoreiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ </div>
 
 
 
@@ -39,4 +36,4 @@
   <br>
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd3666&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8aa0c4&height=120&section=footer"/>
